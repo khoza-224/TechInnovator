@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hackathon Registration</string>
+    <string name="select_category">Select Project Category</string>
+    <string name="email_address">Email Address</string>
+    <string name="individual">Individual</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="team_name_optional">Team Name (Optional)</string>
+    <string name="team">Team</string>
+    <string name="view_summary">View Summary</string>
+    <string name="edit_registration">Edit Registration</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+    <string name="new_registration">New Registration</string>
+    <string name="view_my_registration">View My Registration</string>
+    <string name="event_date_may_15_16_2025_nlocation_tech_innovators_hq">Event Date: May 15–16, 2025\nLocation: Tech Innovators HQ</string>
+    <string name="register_now_to_participate_in_the_biggest_tech_event_of_the_year">Register now to participate in the biggest tech event of the year!</string>
+    <string name="tech_innovators_hackathon_2025">Tech Innovators Hackathon 2025</string>
+    <string name="registration_summary">Registration Summary</string>
+
+    <string-array name="project_categories">
+        <item>Web Development</item>
+        <item>Mobile App Development</item>
+        <item>Artificial Intelligence</item>
+        <item>Data Science</item>
+        <item>Internet of Things</item>
+        <item>Blockchain</item>
+        <item>Cybersecurity</item>
+    </string-array>
+</resources>

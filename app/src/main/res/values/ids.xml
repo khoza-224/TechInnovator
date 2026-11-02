@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_view_summary" type="id" />
+    <item name="nameSummary" type="id" />
+    <item name="emailSummary" type="id" />
+    <item name="countdownText" type="id" />
+    <item name="countdownTimer" type="id" />
+    <item name="projectCategorySummary" type="id" />
+    <item name="teamNameSummary" type="id" />
+    <item name="registrationTypeSummary" type="id" />
+    <item name="main" type="id" />
+</resources>
